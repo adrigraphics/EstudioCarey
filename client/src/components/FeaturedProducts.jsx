@@ -44,7 +44,7 @@ const FeaturedProducts = ({type}) => {
         },
       ]
   return (
-    <div className="featuredProducts my-[100px] mx-[200px]">
+    <div className="featuredProducts md:py-[30px] md:px-[50px] lg:px-[100px] xl:px-[150px] px-3">
         <div className="top mb-[50px] flex flex-wrap items-center justify-between">
             <h1 className="text-3xl font-bold">{type} products</h1>
             <p className='text-slate-400'>

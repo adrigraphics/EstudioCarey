@@ -17,7 +17,7 @@ export default function Navbar() {
     setIsOpen((prevState) => !prevState)
   }
   return (
-    <div className="navbar nunito bg-white/[.95] fixed top-0 px-5 lg:px-24 2xl:px-36 z-50">
+    <div className="items-center h-[80px] md:h-[95px] flex w-full nunito bg-white/[.95] fixed top-0 px-5 lg:px-24 2xl:px-36 z-50">
       <div className="navbar-start">
         <button className="btn btn-circle hover:text-black" onClick={toggleDrawer}>
           <svg className="swap-off fill-current" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 512 512"><path d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z" /></svg>
@@ -71,7 +71,7 @@ export default function Navbar() {
         </div>
 
       </div>
-      <div className="navbar-end items-center gap-2">
+      <div className="navbar-end flex content-end items-center gap-2">
 
         {/* AVATARES /////
          <div className='flex flex-row'>

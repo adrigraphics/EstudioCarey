@@ -10,7 +10,7 @@ const Categorias = () => {
                 <div className="row">
                     <img src="https://images.pexels.com/photos/14131901/pexels-photo-14131901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                     <button>
-                        <Link className="link" to="/productos/1">
+                        <Link className="link no-underline" to="/productos/1">
                             Sale
                         </Link>
                     </button>
@@ -18,7 +18,7 @@ const Categorias = () => {
                 <div className="row">
                     <img src="https://images.pexels.com/photos/14131901/pexels-photo-14131901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                     <button>
-                        <Link className="link" to="/productos/2">
+                        <Link className="link no-underline" to="/productos/2">
                             Sale
                         </Link>
                     </button>
@@ -28,7 +28,7 @@ const Categorias = () => {
                 <div className="row">
                     <img src="https://images.pexels.com/photos/14131901/pexels-photo-14131901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                     <button>
-                        <Link className="link" to="/productos/3">
+                        <Link className="link no-underline" to="/productos/3">
                             Sale
                         </Link>
                     </button>
@@ -40,7 +40,7 @@ const Categorias = () => {
                         <div className="row">
                             <img src="https://images.pexels.com/photos/14131901/pexels-photo-14131901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                             <button>
-                                <Link className="link" to="/productos/4">
+                                <Link className="link no-underline" to="/productos/4">
                                     Sale
                                 </Link>
                             </button>
@@ -50,7 +50,7 @@ const Categorias = () => {
                         <div className="row">
                             <img src="https://images.pexels.com/photos/14131901/pexels-photo-14131901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                             <button>
-                                <Link className="link" to="/productos/5">
+                                <Link className="link no-underline" to="/productos/5">
                                     Sale
                                 </Link>
                             </button>
@@ -60,7 +60,7 @@ const Categorias = () => {
                 <div className="row">
                     <img src="https://images.pexels.com/photos/14131901/pexels-photo-14131901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                     <button>
-                        <Link className="link" to="/productos/6">
+                        <Link className="link no-underline" to="/productos/6">
                             Sale
                         </Link>
                     </button>

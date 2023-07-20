@@ -60,7 +60,7 @@ html {
   flex: 3;
 }
 
-.card {
+.tarjeta {
   width: 250px;
   display: flex;
   flex-direction: column;
@@ -68,20 +68,19 @@ html {
   margin-bottom: 50px;
   }
 
-  .card .image{
+  .tarjeta .image{
     width: 100%;
-    height: 300px;
     overflow: hidden;
     position: relative;
     }
 
-    .card .image:hover{
+    .tarjeta .image:hover{
       .secondImg{
         z-index: 2;
       }
     }
 
-    .card .image .mainImg{
+    .tarjeta .image .mainImg{
       z-index: 1;
     }
 
@@ -195,19 +194,14 @@ html {
 
       .productos {
         display: flex;
-        padding: 30px 50px;
         margin-top: 80px;
       }
       .productos .left {
         flex: 1;
         position: sticky;
         height: 100%;
-        top: 110px;
       }
 
-      .productos .left .filterItem{
-        margin-bottom: 30px;
-      }
 
       .productos .left .filterItem .inputItem {
         margin-bottom: 10px;
@@ -229,14 +223,13 @@ html {
       }
       
       .productos h2 {
-        font-size:larger;
+        font-size: large;
         font-weight: 500;
-        margin-bottom: 20px;
       }
 
       .list {
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         flex-wrap: wrap;
       }
 
@@ -315,8 +308,9 @@ html {
       }
 
       .cart h1 {
-        font-size: 32px;
+        font-size: 26px;
         margin-bottom: 20px;
+        color: gray;
       }
 
       .cart .item {
@@ -342,7 +336,8 @@ html {
 
       .cart .delete {
         font-size: 20px;
-        color: red;
+        color: #c72c2c;
+        cursor: pointer;
       }
 
       .cart .details h1 {
@@ -375,7 +370,9 @@ html {
 
      .cart .reset {
       display: flex;
+      color: #c72c2c;
       justify-content: center;
+      cursor: pointer;
      }
 
 

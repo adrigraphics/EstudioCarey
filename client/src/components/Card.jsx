@@ -4,9 +4,9 @@ import {Link} from "react-router-dom"
 
 const Card = ({item}) => {
   return (
-    <Link className='link' to={`/producto/${item.id}`}>
-      <div className="card">
-        <div className="image">
+    <Link className='link no-underline' to={`/producto/${item.id}`}>
+      <div className="tarjeta w-[200px] md:w-[250px] ">
+        <div className="image h-[200px] md:h-[250px]">
           {item.isNew && <span>Nuevo!</span>}
           <img className="mainImg" src={item.img} alt="" />
           <img className="secondImg" src={item.img2} alt="" />

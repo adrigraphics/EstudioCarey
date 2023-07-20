@@ -35,7 +35,7 @@ const Cart = () => {
     },
   ]
   return (
-    <div className='cart nunito absolute right-[0px] top-[80px] z-50 shadow-md bg-white p-[20px]'>
+    <div className='cart nunito absolute right-[0px] top-[80px] md:top-[95px] z-50 shadow-md bg-white p-[20px]'>
       <h1>Carrito de compra</h1>
       {data?.map(item => (
         <div className="item" key={item.id}>
