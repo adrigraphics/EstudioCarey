@@ -8,7 +8,7 @@ AOS.init();
 
 export default function Nosotrxs() {
   return (
-    <div id="nosotrxs" className="hero pt-[100px] bg-white my-24">
+    <div id="nosotrxs" className="hero bg-white my-24">
       <div className="hero-content flex-col lg:flex-row-reverse">
         <img
           data-aos="fade-up"
