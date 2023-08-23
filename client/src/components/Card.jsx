@@ -24,11 +24,11 @@ const Card = ({ item }) => {
           <h2 className='text-xl'>{item.title}</h2>
           <div className="prices text-sm flex gap-[20px]">
             <h3 className='line-through text-slate-400'>{item.oldPrice && '$' + item.oldPrice}</h3>
-            <h3 className='font-bold'>{item.variantName && 'Desde '}${item.price} MXN</h3>
+            <h3 className='font-bold'>{item.variantName && 'Desde '}${item.variants[0].price} MXN</h3>
           </div>
         </div>
       </Link>
-      <button className='w-full button-blk py-1 mb-10'>Agregar al carrito</button>
+      {/* <button className='w-full button-blk py-1 mb-10'>Agregar al carrito</button> */}
     </div>
 
   )

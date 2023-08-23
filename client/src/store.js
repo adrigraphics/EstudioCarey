@@ -68,12 +68,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 280,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 280,
+                buy: "",
                 imgs: [
                 img570944,
                 ]
@@ -89,12 +89,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: 500,
-            price: 450,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 500,
                 price: 450,
+                buy: "",
                 imgs: [
                     img032885,
                     ]
@@ -110,12 +110,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 430,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 430,
+                buy: "",
                 imgs: [
                     imgBED4A63C,
                     ]
@@ -131,12 +131,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 225,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 255,
+                buy: "",
                 imgs: [
                     img572504,
                     ]
@@ -152,12 +152,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 260,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 260,
+                buy: "",
                 imgs: [
                     img573242,
                     ]
@@ -173,12 +173,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 280,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 280,
+                buy: "",
                 imgs: [
                     img573258,
                     ]
@@ -194,12 +194,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 250,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 250,
+                buy: "",
                 imgs: [
                     img572185,
                     ]
@@ -215,12 +215,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 420,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 420,
+                buy: "",
                 imgs: [
                     img019257,
                     img019257_1,
@@ -238,12 +238,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 410,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 410,
+                buy: "",
                 imgs: [
                     img045007,
                     ]
@@ -259,12 +259,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: 'Tamaño',
             oldPrice: null,
-            price: 410,
-            variants: [
+                    variants: [
             {
                 ml: "250ml",
                 oldPrice: null,
                 price: 410,
+                buy: "",
                 imgs: [
                     img045021,
                     ]
@@ -273,6 +273,7 @@ export const productsAtom = atom(
                 ml: "1lt",
                 oldPrice: null,
                 price: 1290,
+                buy: "",
                 imgs: [
                     img028080,
                     ]
@@ -288,12 +289,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 420,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 420,
+                buy: "",
                 imgs: [
                     img007745,
                     img007745_1,
@@ -310,12 +311,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 420,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 420,
+                buy: "",
                 imgs: [
                     img020758,
                     img020758_2,
@@ -332,12 +333,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 415,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 415,
+                buy: "",
                 imgs: [
                     img011391,
                     ]
@@ -353,12 +354,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 310,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 310,
+                buy: "",
                 imgs: [
                     img006006,
                     ]
@@ -374,12 +375,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 310,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 310,
+                buy: "",
                 imgs: [
                     img033023,
                     img033023_2,
@@ -396,12 +397,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 370,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 370,
+                buy: "",
                 imgs: [
                     img575399,
                     ]
@@ -417,12 +418,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 340,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 340,
+                buy: "",
                 imgs: [
                     img032753,
                     ]
@@ -438,12 +439,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 345,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 345,
+                buy: "",
                 imgs: [
                     img032882,
                     ]
@@ -459,12 +460,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 410,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 410,
+                buy: "",
                 imgs: [
                     img033226,
                     img033226_2,
@@ -481,12 +482,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 410,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 410,
+                buy: "",
                 imgs: [
                     img033227,
                     img033227_2,
@@ -504,12 +505,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 140,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 140,
+                buy: "",
                 imgs: [
                     img578490,
                     ]
@@ -525,12 +526,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 320,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 320,
+                buy: "",
                 imgs: [
                     img025797,
                     img025797_2,
@@ -548,12 +549,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 2890,
-            variants: [
+                     variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 2890,
+                buy: "",
                 imgs: [
                     img576756,
                     ]
@@ -569,12 +570,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 385,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 385,
+                buy: "",
                 imgs: [
                     img033108,
                     ]
@@ -590,12 +591,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 360,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 360,
+                buy: "",
                 imgs: [
                     img578115,
                     ]
@@ -611,12 +612,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 320,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 320,
+                buy: "",
                 imgs: [
                     img573594,
                     ]
@@ -632,12 +633,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 310,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 310,
+                buy: "",
                 imgs: [
                     img578247,
                     ]
@@ -653,12 +654,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: 'Tamaño',
             oldPrice: null,
-            price: 180,
-            variants: [
+                    variants: [
             {
                 ml: "25ml",
                 oldPrice: 50,
                 price: 180,
+                buy: "",
                 imgs: [
                     img020717,
                     ]
@@ -667,6 +668,7 @@ export const productsAtom = atom(
                 ml: "150ml",
                 oldPrice: 50,
                 price: 370,
+                buy: "",
                 imgs: [
                     img020711,
                     ]
@@ -682,12 +684,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 305,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 305,
+                buy: "",
                 imgs: [
                     img570120,
                     ]
@@ -703,12 +705,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 305,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 305,
+                buy: "",
                 imgs: [
                     img578115,
                     ]
@@ -724,12 +726,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 218,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 218,
+                buy: "",
                 imgs: [
                     img573051,
                     ]
@@ -745,12 +747,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: 'Tamaño',
             oldPrice: null,
-            price: 305,
-            variants: [
+                    variants: [
             {
                 ml: "300ml",
                 oldPrice: 50,
                 price: 305,
+                buy: "",
                 imgs: [
                     img573301,
                     ]
@@ -759,6 +761,7 @@ export const productsAtom = atom(
                 ml: "1lt",
                 oldPrice: 50,
                 price: 700,
+                buy: "",
                 imgs: [
                     img573302,
                     ]
@@ -774,12 +777,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 220,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 220,
+                buy: "",
                 imgs: [
                     img570116,
                     ]
@@ -795,12 +798,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: 'Tamaño',
             oldPrice: null,
-            price: 200,
-            variants: [
+                    variants: [
             {
                 ml: "300ml",
                 oldPrice: 50,
                 price: 200,
+                buy: "",
                 imgs: [
                     img572501,
                     ]
@@ -809,6 +812,7 @@ export const productsAtom = atom(
                 ml: "500ml",
                 oldPrice: 50,
                 price: 350,
+                buy: "",
                 imgs: [
                     img570353,
                     ]
@@ -817,6 +821,7 @@ export const productsAtom = atom(
                 ml: "1lt",
                 oldPrice: 50,
                 price: 379,
+                buy: "",
                 imgs: [
                     img570354,
                     ]
@@ -832,12 +837,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: false,
             oldPrice: null,
-            price: 215,
-            variants: [
+                    variants: [
             {
                 ml: "",
                 oldPrice: 50,
                 price: 215,
+                buy: "",
                 imgs: [
                     img570236,
                     ]
@@ -853,12 +858,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: 'Tamaño',
             oldPrice: null,
-            price: 210,
-            variants: [
+                    variants: [
             {
                 ml: "300ml",
                 oldPrice: 50,
                 price: 210,
+                buy: "https://www.instagram.com/",
                 imgs: [
                     img572500,
                     ]
@@ -867,6 +872,7 @@ export const productsAtom = atom(
                 ml: "500ml",
                 oldPrice: 50,
                 price: 248,
+                buy: "https://www.facebook.com/",
                 imgs: [
                     img570302,
                     ]
@@ -875,6 +881,7 @@ export const productsAtom = atom(
                 ml: "1lt",
                 oldPrice: 50,
                 price: 450,
+                buy: "",
                 imgs: [
                     img570303,
                     ]
@@ -890,12 +897,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: 'Tamaño',
             oldPrice: null,
-            price: 210,
-            variants: [
+                    variants: [
             {
                 ml: "300ml",
                 oldPrice: 50,
                 price: 210,
+                buy: "",
                 imgs: [
                     img573062,
                     ]
@@ -904,6 +911,7 @@ export const productsAtom = atom(
                 ml: "500ml",
                 oldPrice: 50,
                 price: 250,
+                buy: "",
                 imgs: [
                     img570896,
                     ]
@@ -912,6 +920,7 @@ export const productsAtom = atom(
                 ml: "1lt",
                 oldPrice: 50,
                 price: 440,
+                buy: "",
                 imgs: [
                     img570897,
                     ]
@@ -927,12 +936,12 @@ export const productsAtom = atom(
             isNew: false,
             variantName: 'Tamaño',
             oldPrice: null,
-            price: 250,
-            variants: [
+                    variants: [
             {
                 ml: "500ml",
                 oldPrice: 50,
                 price: 250,
+                buy: "",
                 imgs: [
                     img570139,
                     ]
@@ -941,6 +950,7 @@ export const productsAtom = atom(
                 ml: "1lt",
                 oldPrice: 50,
                 price: 435,
+                buy: "",
                 imgs: [
                     img570139,
                     ]

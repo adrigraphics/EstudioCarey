@@ -11,7 +11,7 @@ const Tienda = () => {
     <div className='nunito mt-[100px] animate__animated animate__fadeIn'>
       <TiendaBanner />
       {/* <FeaturedProducts type="productos populares"/> */}
-      <Filters />
+      {/* <Filters /> */}
       <Productos />
       
     </div>

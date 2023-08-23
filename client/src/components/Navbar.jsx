@@ -73,7 +73,7 @@ export default function Navbar() {
       </div>
       <div className="navbar-end flex content-end items-center gap-2">
 
-        {/* AVATARES /////
+        
          <div className='flex flex-row'>
           <a href="https://www.instagram.com/adrigraphics" target="_blank" className="tooltip tooltip-primary tooltip-left hover:scale-110 hover:ease-in-out hover:transition" data-tip="Adri">
             <div className="avatar online">
@@ -89,9 +89,9 @@ export default function Navbar() {
               </div>
             </div>
           </a>
-        </div> */}
+        </div>
 
-        <a href="/">
+        {/* <a href="/">
           <button className="btn btn-circle hover:text-black text-xl">
             <MdPerson2 />
           </button>
@@ -100,7 +100,7 @@ export default function Navbar() {
           <button onClick={()=>setOpen(!open)} className="cartIcon btn btn-circle hover:text-black text-xl">
             <MdShoppingCart />
             <span>0</span>
-          </button>
+          </button> */}
         
       </div>
       {open && <Cart />} 
